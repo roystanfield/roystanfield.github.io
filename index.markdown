@@ -14,7 +14,7 @@ title: Home
   <div class="remove_border_on_mobile">Airbnb<br />Principal Product Designer<br />2016 &ndash; present</div>
   <div>Etsy<br />Staff Product Designer<br />2013 &ndash; 2016</div>
   <div>Various startups + art galleries<br />Designer<br />2005 &ndash; 2012</div>
-  <div class="hide_on_mobile">Get in touch<br /><a href="">Linked In</a> &middot; <a href="">Twitter</a></div>
+  <div class="hide_on_mobile">Get in touch<br /><a href="https://www.linkedin.com/in/roy-stanfield-66a31513/">Linked In</a> &middot; <a href="https://twitter.com/RoyStanfield">Twitter</a></div>
   <h1>Roy<br />Stanfield</h1>
 </section>
 
