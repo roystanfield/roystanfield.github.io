@@ -1,4 +1,4 @@
-$light_bg_color: #d6d6d6;
+$light_bg_color: #c1c1c1;
 $dark_bg_color: #000;
 $text_color: #fff;
 $hover_color: #555;
@@ -24,8 +24,42 @@ $standard_bottom_padding_desktop: 120px;
 @media only screen
 and (min-width : 320px) {
 
+  .mobile {
+    display: block;
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+    h1 {
+      font-size: 68px;
+      line-height: 64px;
+      font-weight: 500;
+      padding-bottom: 8px;
+    }
+
+    p {
+      margin-top: 16px;
+    }
+
+    .grid_container {
+      padding: 24px 0 0 0;
+
+      div {
+        font-size: 16px;
+        line-height: 22px;
+      }
+    }
+
+    .intro {
+      padding-bottom: 0;
+    }
+  }
+
+  .desktop {
+    display: none;
+  }
+
   body {
-    background-color: $dark_bg_color;
+    background-color: $light_bg_color;
     color: $text_color;
     font-weight: $font_weight;
     font-family: $font_stack;
@@ -55,9 +89,7 @@ and (min-width : 320px) {
     padding-bottom: $standard_bottom_padding_mobile;
   }
 
-  .intro,
-  .projects,
-  .outro {
+  .projects {
     display: none;
   }
 
@@ -71,8 +103,8 @@ and (min-width : 320px) {
 
     #contrast_button {
       display: block;
-      width: 32px;
-      height: 32px;
+      width: 30px;
+      height: 30px;
       background-color: $dark_bg_color;
       border-radius: 50%;
       border: 2px solid $text_color;
@@ -106,10 +138,6 @@ and (min-width : 320px) {
       margin-left: -5px;
     }
   }
-
-  .hide_on_mobile {
-    display: none;
-  }
 }
 
 
@@ -118,6 +146,14 @@ and (min-width : 320px) {
 
 @media only screen
 and (min-width : 768px) {
+
+  .mobile {
+    display: none;
+  }
+
+  .desktop {
+    display: block;
+  }
 
   body {
     padding: 0 0 0 3%;
@@ -174,7 +210,7 @@ and (min-width : 768px) {
   }
 
   .intro {
-    margin-top: 24px;
+    margin-top: 12px;
     margin-bottom: $standard_bottom_padding_desktop;
     border-bottom: solid 3px $text_color;
   }
