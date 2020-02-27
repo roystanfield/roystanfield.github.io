@@ -26,7 +26,7 @@ title: Roy Stanfield
 
   <div class="outro">
     <p>
-      Previously, I worked at <a href="https://www.theverge.com/2012/5/21/3033867/the-art-of-apps-paper-mixel-khoi-vinh-interview">Mixel app</a> &mdash; which was acquired by Etsy in 2013 &mdash; and before that created websites and design for art galleries in <span class="no_wrap">New York City</span>.
+      Previously I worked at <a href="https://www.theverge.com/2012/5/21/3033867/the-art-of-apps-paper-mixel-khoi-vinh-interview">Mixel app</a>, which was acquired by Etsy in 2013, and before that I created websites and print design for art galleries in <span class="no_wrap">New York City</span>.
     </p>
   </div>
 </div>
@@ -97,7 +97,7 @@ title: Roy Stanfield
 
   <div class="outro">
     <p>
-      Previously, I worked at <a href="https://www.theverge.com/2012/5/21/3033867/the-art-of-apps-paper-mixel-khoi-vinh-interview">Mixel app</a> &mdash; which was acquired by Etsy in 2013 &mdash; and before that created websites and design for art galleries in <span class="no_wrap">New York City</span>.
+      Previously I worked at <a href="https://www.theverge.com/2012/5/21/3033867/the-art-of-apps-paper-mixel-khoi-vinh-interview">Mixel app</a>, which was acquired by Etsy in 2013, and before that I created websites and print design for art galleries in <span class="no_wrap">New York City</span>.
     </p>
   </div>
 </div>
