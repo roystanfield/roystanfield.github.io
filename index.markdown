@@ -78,7 +78,7 @@ title: Roy Stanfield
     <div class="sticky_container">
       <div>
         <h2>Projects at <a class="etsy_link" href="http://www.etsy.com">Etsy</a></h2>
-        <p>Staff Product Designer<br />2016 &ndash; present</p>
+        <p>Staff Product Designer<br />2013 &ndash; 2016</p>
       </div>
     </div>
     <ul>
