@@ -47,6 +47,10 @@ and (min-width : 320px) {
     .intro {
       padding-bottom: 0;
     }
+
+    .nowrap {
+      white-space: nowrap;
+    }
   }
 
   .desktop {
@@ -98,19 +102,18 @@ and (min-width : 320px) {
 
     #contrast_button {
       display: block;
-      width: 30px;
-      height: 30px;
-      background-color: $dark_bg_color;
-      border-radius: 50%;
-      border: 2px solid $text_color;
+      text-indent: -9999px;
+      // background-color: $dark_bg_color;
+      background: url(../images/icon_contrast.svg);
+      width: 34px;
+      height: 34px;
+      background-size: 34px;
+      // border-radius: 50%;
+      // border: 2px solid $text_color;
       }
 
     #contrast_button:hover {
       cursor: pointer;
-    }
-
-    #contrast_button.low_contrast {
-      background-color: $light_bg_color;
     }
   }
 
@@ -213,7 +216,11 @@ and (min-width : 768px) {
   .outro {
     padding-top: $standard_bottom_padding_desktop;
     border-top: solid 3px $text_color;
-    padding-bottom: 180px;
+    padding-bottom: 100px;
+
+    p {
+      margin-bottom: 80px;
+    }
   }
 
   .projects {

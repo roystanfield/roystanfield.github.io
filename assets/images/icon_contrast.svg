@@ -1,0 +1,8 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="18" cy="18" r="16.5" stroke="white" stroke-width="3"/>
+<mask id="path-2-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18 33C26.2843 33 33 26.2843 33 18C33 9.71573 26.2843 3 18 3V33Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18 33C26.2843 33 33 26.2843 33 18C33 9.71573 26.2843 3 18 3V33Z" fill="white"/>
+<path d="M18 33H15V36H18V33ZM18 3V0H15V3H18ZM30 18C30 24.6274 24.6274 30 18 30V36C27.9411 36 36 27.9411 36 18H30ZM18 6C24.6274 6 30 11.3726 30 18H36C36 8.05887 27.9411 0 18 0V6ZM15 3V33H21V3H15Z" fill="white" mask="url(#path-2-inside-1)"/>
+</svg>

@@ -10,7 +10,7 @@ title: Roy Stanfield
   <div class="intro">
     <h1>Roy<br />Stanfield</h1>
     <p>
-      I’m a Principal Product Designer working for Airbnb in San Francisco.
+      I’m a Principal Product Designer working for Shopify and living in <span class="nowrap">San Francisco</span>.
     </p>
     <p>
       I like using design to solve puzzles, testing results, and championing the work &mdash; trying to discover if the same design solution could solve larger problems for real people.
@@ -19,7 +19,8 @@ title: Roy Stanfield
 
 
   <section class="grid_container">
-    <div class="remove_border_on_mobile">Airbnb<br />Principal Product Designer<br />2016 &ndash; present</div>
+    <div class="remove_border_on_mobile">Shopify<br />Principal Product Designer<br />2020 &ndash; present</div>
+    <div>Airbnb<br />Principal Product Designer<br />2016 &ndash; 2020</div>
     <div>Etsy<br />Staff Product Designer<br />2013 &ndash; 2016</div>
     <div>Various startups + art galleries<br />Designer<br />2005 &ndash; 2012</div>
   </section>
@@ -27,6 +28,9 @@ title: Roy Stanfield
   <div class="outro">
     <p>
       Previously I worked at <a href="https://www.theverge.com/2012/5/21/3033867/the-art-of-apps-paper-mixel-khoi-vinh-interview">Mixel app</a>, which was acquired by Etsy in 2013, and before that I created websites and print design for art galleries in <span class="no_wrap">New York City</span>.
+    </p>
+    <p>
+      <a href="https://www.linkedin.com/in/roy-stanfield-66a31513/">Linked In</a> &middot; <a href="https://twitter.com/RoyStanfield">Twitter</a>
     </p>
   </div>
 </div>
@@ -41,10 +45,14 @@ title: Roy Stanfield
   </section>
 
   <section class="grid_container">
-    <div class="remove_border_on_mobile">Airbnb<br />Principal Product Designer<br />2016 &ndash; present</div>
+    <div class="remove_border_on_mobile">Shopify<br />Principal Product Designer<br />2020 &ndash; present</div>
+    <div>Airbnb<br />Principal Product Designer<br />2016 &ndash; 2020</div>
     <div>Etsy<br />Staff Product Designer<br />2013 &ndash; 2016</div>
     <div>Various startups + art galleries<br />Designer<br />2005 &ndash; 2012</div>
-    <div><span class="hide_on_mobile">Get in touch<br /></span><a href="https://www.linkedin.com/in/roy-stanfield-66a31513/">Linked In</a> &middot; <a href="https://twitter.com/RoyStanfield">Twitter</a></div>
+
+
+<!--    <div><span class="hide_on_mobile">Get in touch<br /></span><a href="https://www.linkedin.com/in/roy-stanfield-66a31513/">Linked In</a> &middot; <a href="https://twitter.com/RoyStanfield">Twitter</a></div> -->
+
     <h1>Roy<br />Stanfield</h1>
   </section>
 
@@ -98,6 +106,9 @@ title: Roy Stanfield
   <div class="outro">
     <p>
       Previously I worked at <a href="https://www.theverge.com/2012/5/21/3033867/the-art-of-apps-paper-mixel-khoi-vinh-interview">Mixel app</a>, which was acquired by Etsy in 2013, and before that I created websites and print design for art galleries in <span class="no_wrap">New York City</span>.
+    </p>
+    <p>
+      <a href="https://www.linkedin.com/in/roy-stanfield-66a31513/">Linked In</a> &middot; <a href="https://twitter.com/RoyStanfield">Twitter</a>
     </p>
   </div>
 </div>
