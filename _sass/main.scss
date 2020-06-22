@@ -169,6 +169,7 @@ and (min-width : 768px) {
 
     .remove_border_on_mobile {
       border-top: solid 3px $text_color;
+      padding-top: 24px;
     }
 
     .hide_on_mobile {
