@@ -43,7 +43,7 @@ title: Roy Stanfield
 
 <div class="desktop">
   <section class="contrast_controls">
-    <div id="contrast_button" class="low_contrast">&nbsp;</div>
+    <div id="contrast_button_desktop" class="low_contrast">&nbsp;</div>
   </section>
 
   <section class="grid_container">

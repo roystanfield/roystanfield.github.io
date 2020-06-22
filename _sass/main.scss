@@ -186,10 +186,17 @@ and (min-width : 768px) {
   .contrast_controls {
     display: block;
 
-    #contrast_button {
+    #contrast_button_desktop {
+      display: block;
+      text-indent: -9999px;
+      background: url(../images/icon_contrast.svg);
       width: 32px;
       height: 32px;
       background-size: 32px;
+      }
+
+    #contrast_button_desktop:hover {
+      cursor: pointer;
     }
   }
 
