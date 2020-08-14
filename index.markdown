@@ -68,7 +68,7 @@ title: Roy Stanfield
     <div class="sticky_container">
       <div>
         <h2>Projects at <a class="airbnb_link" href="http://www.airbnb.com">Airbnb</a></h2>
-        <p>Principal Product Designer<br />2016 &ndash; present</p>
+        <p>Principal Product Designer<br />2016 &ndash; 2020</p>
       </div>
     </div>
     <ul>
