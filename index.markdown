@@ -15,7 +15,7 @@ title: Roy Stanfield
   <div class="intro">
     <h1>Roy<br />Stanfield</h1>
     <p>
-      I’m a Product Designer living in <span class="nowrap">San Francisco</span>. I like using design to solve puzzles, testing results, and championing the work &mdash; trying to discover if the same design solution could solve larger problems for real people.
+      I’m a Product Designer working remotely from <span class="nowrap">Shaker Heights,</span> Ohio, USA. I like using design to solve puzzles, testing results, and championing the work &mdash; trying to discover if the same design solution could solve larger problems for real people.
     </p>
   </div>
 
@@ -63,6 +63,25 @@ title: Roy Stanfield
       I like using design to solve puzzles, testing results, and championing the work &mdash; trying to discover if the same design solution could solve larger problems for real people.
     </p>
   </div>
+
+  <section class="projects shopify">
+    <div class="sticky_container">
+      <div>
+        <h2>Projects at <a class="shopify_link" href="https://www.shopify.com/">Shopify</a></h2>
+        <p>Principal Product Designer<br />2020 &ndash; 2022</p>
+      </div>
+    </div>
+    <ul>
+      <li>Buyer trust</li>
+      <li>Localization</li>
+      <li>International markets</li>
+      <li>Visual design hiring</li>
+      <li>Balance</li>
+      <li>Metafields</li>
+      <li>Navigation</li>
+      <li>Multichannel</li>
+    </ul>
+  </section>
 
   <section class="projects airbnb">
     <div class="sticky_container">

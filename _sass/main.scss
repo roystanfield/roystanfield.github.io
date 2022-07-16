@@ -4,6 +4,7 @@ $text_color: #fff;
 $hover_color: #555;
 $airbnb_color: #FF385C;
 $etsy_color: #F66403;
+$shopify_color: #008060;
 $font_weight: 500;
 $font_stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 $font_size: 18px;
@@ -82,6 +83,7 @@ and (min-width : 320px) {
   a:hover {color: $hover_color;}
   a:hover.airbnb_link {color: $airbnb_color;}
   a:hover.etsy_link {color: $etsy_color;}
+  a:hover.shopify_link {color: $shopify_color;}
 
   .intro {
     padding-bottom: $standard_bottom_padding_mobile;
