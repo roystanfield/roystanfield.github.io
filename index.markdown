@@ -15,7 +15,7 @@ title: Roy Stanfield
   <div class="intro">
     <h1>Roy<br />Stanfield</h1>
     <p>
-      I’m a Product Designer working remotely from <span class="nowrap">Shaker Heights,</span> Ohio, USA. I like using design to solve puzzles, testing results, and championing the work &mdash; trying to discover if the same design solution could solve larger problems for real people.
+      I like using design to solve puzzles, testing results, and championing the work &mdash; trying to discover if the same design solution could solve larger problems for real people.
     </p>
   </div>
 
@@ -75,7 +75,7 @@ title: Roy Stanfield
       <li>Buyer trust</li>
       <li>Localization</li>
       <li>International markets</li>
-      <li>Visual design hiring</li>
+      <li>UX hiring process</li>
       <li>Balance</li>
       <li>Metafields</li>
       <li>Navigation</li>
