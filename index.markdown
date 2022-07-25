@@ -68,7 +68,7 @@ title: Roy Stanfield
     <div class="sticky_container">
       <div>
         <h2>Projects at <a class="shopify_link" href="https://www.shopify.com/">Shopify</a></h2>
-        <p>Principal Product Designer<br />2020 &ndash; 2022</p>
+        <p>Principal Product Designer<br />2020 &ndash; present</p>
       </div>
     </div>
     <ul>
