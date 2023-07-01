@@ -75,6 +75,7 @@ title: Roy Stanfield
       <li>Buyer trust</li>
       <li>Localization</li>
       <li>International markets</li>
+      <li>Shipping and delivery</li>
       <li>UX hiring process</li>
       <li>Balance</li>
       <li>Metafields</li>
